@@ -34,10 +34,10 @@
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=LukaOliveira&theme=tokyonight&show_icons=true&locale=en&layout=compact"
         alt="LukaOliveira" /></p>
-
-<p>&nbsp;<img align="center"
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukaOliveira&theme=tokyonight"
+        alt="LukaOliveira" /></p>
+<br>
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=LukaOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
         alt="LukaOliveira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukaOliveira&theme=tokyonight"
-        alt="LukaOliveira" /></p>
