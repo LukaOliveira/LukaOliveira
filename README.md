@@ -1,4 +1,4 @@
-<h1 align="left">Hi 😉, I'm Luka Oliveira</h1>
+<h1 align="center">Hi 😉, I'm Luka Oliveira</h1>
 <h3 align="left">Desenvolvedor Python Pleno.</h3>
 
 - 💬 Ask me about: **Python, Rust e JS**
@@ -28,10 +28,14 @@
             alt="mysql" width="40" height="40" /> </a> <a href="#" target="_blank"> <img
             src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" width="40" heigth="40"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"
-            alt="ionic" width="40" height="40" /> </a> <a href="#" target="_blank">
+            alt="ionic" width="40" height="40" /> </a> 
             
 
-<p><img align="left"
+</p>
+<h3 align="left">Stats:</h3>
+<p>
+          
+        <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=LukaOliveira&theme=tokyonight&show_icons=true&locale=en&layout=compact"
         alt="LukaOliveira" /></p>
 
