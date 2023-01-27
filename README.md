@@ -31,13 +31,14 @@
             alt="ionic" width="40" height="40" /> </a> 
             
 <h3 align="left">Stats:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukaOliveira&theme=tokyonight"
-        alt="LukaOliveira" /></p>
-<br>
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=LukaOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
         alt="LukaOliveira" /></p>
+        
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukaOliveira&theme=tokyonight"
+        alt="LukaOliveira" /></p>
+
 <br>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=LukaOliveira&theme=tokyonight&show_icons=true&locale=en&layout=compact"
