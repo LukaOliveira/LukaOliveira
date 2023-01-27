@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😉, I'm Luka Oliveira</h1>
+<h1 align="left">Hi 😉, I'm Luka Oliveira</h1>
 <h3 align="left">Desenvolvedor Python Pleno.</h3>
 
 - 💬 Ask me about: **Python, Rust e JS**
@@ -32,7 +32,7 @@
             
 
 </p>
-<h3 align="left">Stats:</h3>
+
 <p>
           
         <img align="left"
