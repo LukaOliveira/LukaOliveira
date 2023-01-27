@@ -36,7 +36,7 @@
         alt="LukaOliveira" /></p>
         
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukaOliveira&theme=tokyonight"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukaOliveira&theme=tokyonight"
         alt="LukaOliveira" /></p>
 
 <br>
