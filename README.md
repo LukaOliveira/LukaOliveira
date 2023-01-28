@@ -1,5 +1,11 @@
 <h1 align="center">Hi 😉, I'm Luka Oliveira</h1>
-<h3 align="left">Desenvolvedor Python Pleno.</h3> - 💬 Ask me about: **Python, Rust, JS** - 📫 How to reach me: **pedrolukaoliveira@protonmail.com** <h3 align="left">Connect with me:</h3>
+<h3 align="left">Desenvolvedor Python Pleno.</h3>
+
+- 💬 Ask me about: **Python, Rust, JS**
+
+- 📫 How to reach me: **pedrolukaoliveira@protonmail.com** 
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="mailto:pedrolukaoliveira@protonmail.com">
